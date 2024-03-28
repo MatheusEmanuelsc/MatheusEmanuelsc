@@ -15,4 +15,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=MatheusEmanuelsc&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusEmanuelsc)](https://github.com/anuraghazra/github-readme-stats)
+![Snake animation](https://github.com/seuusername/MatheusEmanuelsc/blob/output/github-contribution-grid-snake.svg)
+
