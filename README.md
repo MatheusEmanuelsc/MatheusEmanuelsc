@@ -1,4 +1,4 @@
-# 💫 Sobre me:
+# 💫 Sobre mim:
 <br>Olá! Sou Matheus, um entusiasta da tecnologia em busca de desafios, especialmente no desenvolvimento backend com C# ou Java. Estou pronto para colaborar em projetos empolgantes e estou aberto a feedback. Vamos construir algo incrível juntos!
 
 
