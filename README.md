@@ -34,7 +34,7 @@
 
 </div>
 
-## Principais Tecnologias:
+
 ## Principais Tecnologias:
 <div align="center">
   
